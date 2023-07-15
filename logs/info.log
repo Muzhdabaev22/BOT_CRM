@@ -1,0 +1,61 @@
+
+2023-07-11T12:13:09.205783+0300 | ERROR | Не удалось подключиться к бд: (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение)")
+2023-07-11T12:13:09.223678+0300 | INFO | Бот запущен
+2023-07-11T12:13:09.514458+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:13:09.515452+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:13:09.516449+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:13:09.517446+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:19:15.282371+0300 | ERROR | Не удалось подключиться к бд: (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение)")
+2023-07-11T12:19:15.312883+0300 | INFO | Бот запущен
+2023-07-11T12:19:15.637458+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:19:15.639454+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:19:15.640451+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:19:15.640451+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:23:05.828055+0300 | ERROR | Не удалось подключиться к бд: (2003, "Can't connect to MySQL server on '127.0.0.1' ([WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение)")
+2023-07-11T12:23:05.846969+0300 | INFO | Бот запущен
+2023-07-11T12:23:06.149907+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:23:06.151217+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:23:06.152216+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:23:06.153214+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:35:23.023471+0300 | ERROR | Не удалось подключиться к бд: (2003, "Can't connect to MySQL server on '192.168.0.1' ([WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение)")
+2023-07-11T12:35:23.042422+0300 | INFO | Бот запущен
+2023-07-11T12:35:23.314602+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:35:23.315600+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:35:23.316596+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:35:23.316596+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:37:34.049612+0300 | ERROR | Не удалось подключиться к бд: (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение)")
+2023-07-11T12:37:34.067563+0300 | INFO | Бот запущен
+2023-07-11T12:37:34.375238+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:37:34.376239+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:37:34.377234+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:37:34.378231+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:38:24.775306+0300 | ERROR | Не удалось подключиться к бд: (2003, "Can't connect to MySQL server on '192.168.0.1' ([WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение)")
+2023-07-11T12:38:24.793258+0300 | INFO | Бот запущен
+2023-07-11T12:38:25.039017+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:38:25.040013+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:38:25.041010+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-11T12:38:25.042007+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-13T19:01:05.869640+0300 | ERROR | Не удалось подключиться к бд: (2003, "Can't connect to MySQL server on '192.168.0.1' ([WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение)")
+2023-07-13T19:01:05.918863+0300 | INFO | Бот запущен
+2023-07-13T19:01:06.220302+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-13T19:01:06.225293+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-13T19:01:06.225293+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-13T19:01:06.226292+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:25:58.085479+0300 | INFO | Бот запущен
+2023-07-15T19:26:14.227744+0300 | INFO | Бот запущен
+2023-07-15T19:28:17.444661+0300 | INFO | Бот запущен
+2023-07-15T19:30:13.275443+0300 | ERROR | Не удалось подключиться к бд: (1045, "Access denied for user 'u1822734_ed'@'176.101.187.192' (using password: YES)")
+2023-07-15T19:30:13.298085+0300 | INFO | Бот запущен
+2023-07-15T19:30:13.564410+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:30:13.565409+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:30:13.566406+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:30:13.567404+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:30:55.684719+0300 | ERROR | Не удалось подключиться к бд: (1045, "Access denied for user 'u1822734_ed'@'176.101.187.192' (using password: YES)")
+2023-07-15T19:30:55.705355+0300 | INFO | Бот запущен
+2023-07-15T19:30:55.966173+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:30:55.967177+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:30:55.968158+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:30:55.969138+0300 | ERROR | Ошибка с запросом в БД: 'DatabaseManagerSQL' object has no attribute 'connection'
+2023-07-15T19:31:07.051313+0300 | INFO | Бот запущен
+2023-07-15T19:36:39.086131+0300 | INFO | Бот запущен
+2023-07-15T19:37:14.059714+0300 | INFO | Бот запущен
